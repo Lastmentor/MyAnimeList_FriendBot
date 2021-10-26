@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "R7ryYl3yJ6QM35zGb3j0dR4XmAA6eiNvjAkSM8YNVmHSlD+oGuDVHtNlDiWn8203T7Q01mYgv2Oj39uUiEDrdA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rizaf\\source\\repos\\MyAnimeListFriendBot\\MyAnimeListFriendBot\\MyAnimeListFriendBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rizaf\\.nuget\\packages\\anglesharp\\0.16.0\\anglesharp.0.16.0.nupkg.sha512",
+    "C:\\Users\\rizaf\\.nuget\\packages\\chromium.chromedriver\\2.37.0\\chromium.chromedriver.2.37.0.nupkg.sha512",
+    "C:\\Users\\rizaf\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\rizaf\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\rizaf\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\rizaf\\.nuget\\packages\\selenium.support\\4.0.1\\selenium.support.4.0.1.nupkg.sha512",
+    "C:\\Users\\rizaf\\.nuget\\packages\\selenium.webdriver\\4.0.1\\selenium.webdriver.4.0.1.nupkg.sha512",
+    "C:\\Users\\rizaf\\.nuget\\packages\\selenium.webdriver.chromedriver\\95.0.4638.1700\\selenium.webdriver.chromedriver.95.0.4638.1700.nupkg.sha512",
+    "C:\\Users\\rizaf\\.nuget\\packages\\sharpziplib\\1.3.3\\sharpziplib.1.3.3.nupkg.sha512",
+    "C:\\Users\\rizaf\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\rizaf\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\rizaf\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\rizaf\\.nuget\\packages\\system.text.encoding.codepages\\5.0.0\\system.text.encoding.codepages.5.0.0.nupkg.sha512",
+    "C:\\Users\\rizaf\\.nuget\\packages\\webdrivermanager\\2.12.1\\webdrivermanager.2.12.1.nupkg.sha512"
+  ],
+  "logs": []
+}
